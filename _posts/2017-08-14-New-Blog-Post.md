@@ -4,11 +4,7 @@ title: Steve's Website!
 ---
 
 This site will be showcasing my IT skills.
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 This page will list the consulting work I am available for.
-
   *Custom Programming
   *Database Design
   *Network Configuration
