@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Steve's Website!
+title: Stratton Software Services:
 ---
 
-This site will be showcasing my IT skills.
+
 I am available to assist with:
   +Custom Programming
   +Database Design
