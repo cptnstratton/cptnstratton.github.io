@@ -4,9 +4,10 @@ title: Steve's Website!
 ---
 
 This site will be showcasing my IT skills.
-This page will list the consulting work I am available for.
-  *Custom Programming
-  *Database Design
-  *Network Configuration
-  *Website Design
-  *SQL Coding
+I am available to assist with:
+  +Custom Programming
+  +Database Design
+  +Network Configuration
+  +Website Design
+  +SQL Coding
+  +Data Migration (including email and databases)
