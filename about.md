@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I've been working with computers for almost 40 years. I have a well rounded knowledge of computer systems and networks, scripting and programming solutions, designing databases and websites. I can provide IT solutions for any situation, and help with hardware and software choices for your business.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my spare time, I like to ride motorcycles and go camping. I'm also a pilot, skydiver, and scuba diver.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[steve@strattonsoftware.com](mailto:steve@strattonsoftware.com)
