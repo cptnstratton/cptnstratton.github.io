@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stratton Software Services:
+title: Stratton Software Services
 ---
 
 
